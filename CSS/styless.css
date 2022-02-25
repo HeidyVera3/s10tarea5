@@ -1,0 +1,58 @@
+.text-coral{
+    color: rebeccapurple
+}
+
+.text-cornflowerblue{
+    color: rgb(237, 173, 100)
+}
+
+h1{
+    background-color: rgb(48, 134, 31);
+    margin-bottom: 20px;
+    border: 3px solid rgb(116, 11, 129); 
+    font-size: 30;
+    font-weight: bold;
+}
+
+h2{
+    background-color: rgb(65, 97, 185);
+    margin-bottom: 20px;
+    border: 3px solid rgb(9, 85, 104); 
+    font-size: 30;
+    font-weight: bold;
+
+}
+
+ body{
+     font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
+
+p{
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+ul{
+    font-size: 20px;
+    font-style: italic;
+}
+.text-subtitulos{
+    font-weight: bold;
+    color: rgb(23, 165, 106)
+    
+
+}
+
+.text-importante{
+    color:rgb(128, 165, 42)
+}
+
+.box{
+    width: 5px;
+    height: 5px;
+    background-color: rgb(200, 211, 50);
+    margin: 10px;
+    float:left;
+}
